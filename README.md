@@ -33,6 +33,3 @@ By choice, the plugin is minimal. Apart from the demo, you won't find any CSS. I
 
 ## Issues and Contribution
 Since Lister.js is still in early Alpha, the issues will be used for project management. If you'd like to contribute, take a peak there to see what can be done.
-
-
-<a href="http://punkave.com/"><img src="https://raw.github.com/punkave/jquery-selective/master/logos/logo-box-builtby.png" /></a>
